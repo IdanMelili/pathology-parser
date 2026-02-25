@@ -1,0 +1,6 @@
+path report - DR. SMITH - 03/12/2024
+DX: squamous cell carcinoma, lung (upper lobe)
+sz: 23MM x 15MM
+staging: ypT2   N0    M0
+SURG. MARGINS: POSITIVE
+mets: none identified

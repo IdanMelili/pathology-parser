@@ -1,0 +1,11 @@
+SURGICAL PATHOLOGY REPORT
+
+Patient: REDACTED
+Specimen: Right lower lobe lung resection
+
+DIAGNOSIS:
+ Adenocarcinoma  of the lung,    right lower lobe.
+Tumor size:     2.3 x   1.8 cm
+Pathologic  staging: pT2aN1M0
+Surgical margins: negative
+No lymphovascular invasion identified.

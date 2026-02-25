@@ -1,0 +1,10 @@
+SYNOPTIC REPORT
+===============
+SPECIMEN:          Colon, sigmoid resection
+DIAGNOSIS:         Adenocarcinoma
+TUMOR SIZE:        3.2 x 2.1 x 1.8   CM
+PRIMARY SITE:      colon
+T STAGE:           pT3
+N STAGE:           pN1
+M STAGE:           pM0
+MARGINS:           Margins Negative
