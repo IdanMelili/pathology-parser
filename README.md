@@ -23,7 +23,7 @@ Built as direct preparation for an upcoming NLP research internship at the Cedar
 
 ## Setup
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/IdanMelili/pathology-parser.git>
 cd pathology-parser
 python3.13 -m venv venv
 source venv/bin/activate
